@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "恋におちて -Fall in love-",
+  "base_artist": "小林明子",
+  "createdAt": "2025-12-23T17:04:09.112407Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋におちて -Fall in Love-",
+      "artist": "Hideaki Tokunaga",
+      "has_synced": true,
+      "path": "select/01_恋におちて_-Fall_in_Love-_Hideaki_Tokunaga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋におちて",
+      "artist": "Kobayashi Akiko",
+      "has_synced": true,
+      "path": "select/02_恋におちて_Kobayashi_Akiko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋におちて",
+      "artist": "小林明子",
+      "has_synced": true,
+      "path": "select/03_恋におちて_小林明子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋におちて",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/04_恋におちて_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋におちて",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/05_恋におちて_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋におちて",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/06_恋におちて_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋におちて-Fall in love-",
+      "artist": "小林明子",
+      "has_synced": true,
+      "path": "select/07_恋におちて-Fall_in_love-_小林明子.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋におちて",
+      "artist": "小林明子",
+      "has_synced": true,
+      "path": "select/08_恋におちて_小林明子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋におちて",
+      "artist": "SID",
+      "has_synced": true,
+      "path": "select/09_恋におちて_SID.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "恋におちて -Fall in love-",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/10_恋におちて_-Fall_in_love-_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "恋におちて -Fall in Love-",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/11_恋におちて_-Fall_in_Love-_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "恋におちて -Fall in love-",
+      "artist": "Hiroji Miyamoto",
+      "has_synced": true,
+      "path": "select/12_恋におちて_-Fall_in_love-_Hiroji_Miyamoto.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "恋におちて -Fall in Love-",
+      "artist": "徳永英明",
+      "has_synced": true,
+      "path": "select/13_恋におちて_-Fall_in_Love-_徳永英明.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "恋におちて",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/14_恋におちて_Acid_Black_Cherry.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "KISS ～恋におちて...冬～",
+      "artist": "May's",
+      "has_synced": false,
+      "path": "select/15_KISS_~恋におちて...冬~_May's.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "KISS ～恋におちて...冬～ (instrumental)",
+      "artist": "MAY’S",
+      "has_synced": false,
+      "path": "select/16_KISS_~恋におちて...冬~_(instrumental)_MAY’S.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "KISS 〜恋におちて...冬〜",
+      "artist": "MAY’S",
+      "has_synced": false,
+      "path": "select/17_KISS_〜恋におちて...冬〜_MAY’S.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "KISS ～恋におちて...冬～",
+      "artist": "MAY’S",
+      "has_synced": false,
+      "path": "select/18_KISS_~恋におちて...冬~_MAY’S.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋におちて",
+      "artist": "小林 明子",
+      "has_synced": false,
+      "path": "select/pl_01_恋におちて_小林_明子.txt"
+    }
+  ]
+}
